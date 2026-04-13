@@ -6,21 +6,21 @@ metagrex meta search engine for git operations
 
 metagrex meta search engine for git operations
 
-Copyright (C) 2024-2025 QB Networks
+Copyright (C) 2024-2026 QB Networks
 
-Copyright (C) 2017-2025 Masscollabs Services
+Copyright (C) 2017-2026 Masscollabs Services
 
-Copyright (C) 2017-2025 Procyberian and contributors
+Copyright (C) 2017-2026 Procyberian and contributors
 
-Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2026 Mass Collaboration Labs and contributors
 
-Copyright (C) 2017-2025 amassivus and contributors
+Copyright (C) 2017-2026 amassivus and contributors
 
-Copyright (C) 2024-2025 godigitalist and contributors
+Copyright (C) 2024-2026 godigitalist and contributors
 
-Copyright (C) 2024-2025 bilsege and contributors
+Copyright (C) 2024-2026 bilsege and contributors
 
-Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+Copyright (C) 2024-2026 Birleşik Dergi Yazarları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
